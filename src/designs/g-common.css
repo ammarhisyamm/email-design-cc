@@ -1,0 +1,34 @@
+ #email{background:#F6F5F2}
+ .top{padding:28px 0 24px;text-align:center}
+ .top .tex{position:absolute;left:0;right:0;top:0;height:520px;background:url(../../emails/images/gen/tex-light.jpg) center top/cover;opacity:.5;-webkit-mask:linear-gradient(#000,transparent);z-index:0}
+ .top img{width:104px;margin:0 auto}
+ .pillbar{display:inline-flex;align-items:center;gap:10px;background:#171717;color:#F6F5F2;border-radius:999px;padding:11px 18px;font:700 11px/1 'DM Sans';letter-spacing:.24em;text-transform:uppercase;box-shadow:0 10px 24px rgba(23,23,23,.18);margin-top:18px}
+ .pillbar i{width:7px;height:7px;border-radius:50%;background:#E0383B}
+ .hero{padding:8px 32px 0;text-align:center}
+ .hero .sub{font:500 18px/27px 'DM Sans';color:#4A4540;margin:16px auto 0;max-width:470px}
+ .stagewrap{position:relative;height:420px;margin-top:30px}
+ .copy{padding:96px 64px 0;text-align:center}
+ .copy p{font:400 17.5px/28px 'DM Sans';color:#3F3B37}
+ .cta{display:flex;justify-content:center;padding:28px 0 56px}
+ .cardsec{padding:150px 24px 56px}
+ .cardsec .glass{position:relative;padding:34px 32px 34px}
+ .cardsec .glass h2{margin-top:10px}
+ .cardsec .glass p.body{margin-top:14px}
+ .num{position:absolute;font:900 140px/1 'DM Sans';letter-spacing:-8px;color:rgba(189,38,41,.08)}
+ .band{padding:120px 48px 120px;text-align:center;background:linear-gradient(#F6F5F2 0,#0D0B0A 90px,#0D0B0A calc(100% - 90px),#F6F5F2 100%)}
+ .band .tex{position:absolute;left:0;right:0;top:90px;bottom:90px;background:url(../../emails/images/gen/tex-dark.jpg) center/cover;opacity:.5;-webkit-mask:linear-gradient(transparent,#000 22%,#000 78%,transparent);z-index:0}
+ .band h2{color:#fff;margin-top:10px}
+ .band p.body{color:#B8B3AC;margin-top:14px}
+ .metric{padding:48px 24px 56px}
+ .metric .head{padding:0 16px}
+ .metric .head h2{margin-top:10px}
+ .metric .head p.body{margin-top:14px}
+ .showcase{position:relative;height:270px;margin-top:28px}
+ .tiles{display:flex;gap:8px;margin-top:10px}
+ .tiles .tile{flex:1}
+ .caveat{font:500 11.5px/16px 'DM Sans';color:#8F8D85;margin-top:16px;padding:0 16px}
+ .close{padding:76px 40px 0;text-align:center}
+ .close .tex{position:absolute;left:0;right:0;top:0;bottom:-140px;background:url(../../emails/images/gen/tex-light.jpg) center/cover;opacity:.65;-webkit-mask:linear-gradient(transparent,#000 40%,#000 70%,transparent);z-index:0}
+ .close h2{font-size:46px;line-height:49px;letter-spacing:-1.8px}
+ .close p{font:500 18px/27px 'DM Sans';color:#4A4540;margin-top:16px}
+ .cta2{display:flex;justify-content:center;padding:30px 0 70px;background:linear-gradient(rgba(246,245,242,0) 0%,rgba(246,245,242,0) 55%,#171717 100%)}

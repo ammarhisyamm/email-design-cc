@@ -1,0 +1,23 @@
+ .top{padding:0 0 26px;text-align:center}
+ .banner{height:42px;display:flex;align-items:center;justify-content:center;gap:12px;font:700 11px/1 'DM Sans';letter-spacing:.26em;color:#D9D6D0;text-transform:uppercase;border-bottom:1px solid rgba(255,255,255,.07);background:linear-gradient(90deg,#0A0909,#1d0d0d 50%,#0A0909)}
+ .banner i{width:6px;height:6px;border-radius:50%;background:#E0383B;box-shadow:0 0 10px #E0383B}
+ .top img{width:108px;margin:26px auto 0}
+ .hero{padding:12px 36px 0;text-align:center}
+ .hero .tex{position:absolute;left:0;right:0;top:250px;height:560px;background:url(../../emails/images/gen/tex-dark.jpg) center/cover;opacity:.9;-webkit-mask:linear-gradient(transparent,#000 28%,#000 70%,transparent);z-index:0}
+ .hero .sub{font:500 18px/27px 'DM Sans';color:#D9D6D0;margin:18px auto 0;max-width:470px}
+ .vis{position:relative;height:400px;margin:20px -36px 0}
+ .copy{padding:92px 64px 0;text-align:center}
+ .copy p{font:400 17.5px/28px 'DM Sans';color:#E2DED8}
+ .cta{display:flex;justify-content:center;padding:30px 0 64px}
+ .usp{padding-top:64px;padding-bottom:0}
+ .usp h2{margin-top:12px}
+ .usp p.body{margin-top:14px}
+ .center{text-align:center;padding-left:84px;padding-right:44px}
+ .grid{position:absolute;left:24px;right:24px;border-radius:32px;background-image:linear-gradient(rgba(255,255,255,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.05) 1px,transparent 1px);background-size:32px 32px;-webkit-mask:radial-gradient(ellipse at 50% 50%,#000 30%,transparent 72%);z-index:0}
+ .row{display:flex;align-items:center;gap:20px}
+ .caveat{font:500 11.5px/16px 'DM Sans';color:#6E6A64;margin-top:24px}
+ .close{padding:80px 40px 0;text-align:center;background:linear-gradient(#0A0909 0%,#2a0d0d 22%,#9a1f22 62%,#BD2629 100%)}
+ .close h2{font-size:46px;line-height:49px;letter-spacing:-1.8px}
+ .close p{font:500 18px/27px 'DM Sans';color:#FFE3E3;margin-top:16px}
+ .cta2{display:flex;justify-content:center;padding:32px 0 72px;background:linear-gradient(#BD2629 0%,#BD2629 55%,#0A0909 100%)}
+ .cta2 .btn{background:#fff;color:#BD2629;box-shadow:0 18px 40px rgba(0,0,0,.35)}
